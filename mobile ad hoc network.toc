@@ -1,0 +1,5 @@
+\beamer@sectionintoc {2}{A qoi sert MANET}{7}{0}{1}
+\beamer@sectionintoc {3}{Characteristics of MANET }{8}{0}{2}
+\beamer@sectionintoc {4}{Domaines d'application du MANET}{10}{0}{3}
+\beamer@sectionintoc {5}{Types of MANET }{16}{0}{4}
+\beamer@sectionintoc {6}{Pros and Cos }{18}{0}{5}
